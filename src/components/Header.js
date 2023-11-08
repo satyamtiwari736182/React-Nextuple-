@@ -16,7 +16,7 @@ const Header = () => {
             data-testid="test-logo"
             className="w-full"
             src={logo}
-            // src="https://png.pngtree.com/template/20200704/ourmid/pngtree-restaurant-logo-design-vector-template-image_388753.jpg"
+          // src="https://png.pngtree.com/template/20200704/ourmid/pngtree-restaurant-logo-design-vector-template-image_388753.jpg"
           />
         </div>
       </Link>
